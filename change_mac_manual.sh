@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NEW_MAC="10:7c:61:65:5d:a4"
+NEW_MAC=""
 IFACE="enp4s0"
 
 echo "[*] Назначаю $NEW_MAC на $IFACE"
